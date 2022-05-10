@@ -18,7 +18,7 @@ body {
   width: 30%;
   margin: 0 auto;
   position: relative;
-  box-shadow: 12px 12px 24px #ffffff;
+  border-color: black;
 }
 #search-form input {
   width: 100%;
