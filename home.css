@@ -13,12 +13,12 @@ body {
 .container {
   padding: 30px 50px;
   border-radius: 30px;
-  box-shadow: 12px 12px 24px #000000;
 }
 #search-form {
   width: 30%;
   margin: 0 auto;
   position: relative;
+  box-shadow: 12px 12px 24px #ffffff;
 }
 #search-form input {
   width: 100%;
