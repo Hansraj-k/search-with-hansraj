@@ -30,6 +30,7 @@ body {
   border: none;
   border-radius: 30px;
   outline: none;
+  font-family: EastSeaDokdo;
 }
 #search-form button {
   position: absolute;
