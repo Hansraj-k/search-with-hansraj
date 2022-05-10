@@ -10,6 +10,10 @@ body {
   background-color: #000000;
   color: #fff;
 }
+@font-face{
+  font-family: "EastSeaDokdo";
+  src:url('Ubuntu-Title.ttf');
+}
 .container {
   padding: 30px 50px;
   border-radius: 30px;
