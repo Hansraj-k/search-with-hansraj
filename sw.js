@@ -1,7 +1,7 @@
 self.addEventListener("install", e => {
     e.waitUntil(
         caches.open("static").then(cache => {
-            return cache.addAll(["./","./home.css","s.png"]);
+            return cache.addAll(["./","./home.css","s.png","home.js","Ubuntu-Title.ttf","sw1.png"]);
         })
     );
 });
